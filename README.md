@@ -4,16 +4,7 @@ A collection of Python scripts built to automate common IT support tasks.
 
 ## Projects
 
-### 1. Connectivity Checker
-Automates network diagnostics by checking host availability
-and logging results with timestamps.
-
-**Features:**
-- Ping multiple hosts simultaneously
-- Auto-generate diagnostic logs
-- View log history
-
-### 2. Ticket System
+### 1. Ticket System
 Simulates a help desk ticketing system with reporting capabilities.
 
 **Features:**
@@ -28,7 +19,7 @@ Simulates a help desk ticketing system with reporting capabilities.
 - datetime
 - os
 
-## motivation
+## Motivation
 These projects were built to practice IT support automation concepts
 including ticketing workflows, SLA management, and diagnostic tooling.
 
